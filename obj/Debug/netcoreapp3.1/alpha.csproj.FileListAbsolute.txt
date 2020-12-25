@@ -1,0 +1,13 @@
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.exe
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.deps.json
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.runtimeconfig.json
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.runtimeconfig.dev.json
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.dll
+D:\Coding dotnet C-sharp\alpha\bin\Debug\netcoreapp3.1\alpha.pdb
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.csprojAssemblyReference.cache
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.AssemblyInfoInputs.cache
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.AssemblyInfo.cs
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.csproj.CoreCompileInputs.cache
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.dll
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.pdb
+D:\Coding dotnet C-sharp\alpha\obj\Debug\netcoreapp3.1\alpha.genruntimeconfig.cache
